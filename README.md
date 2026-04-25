@@ -108,4 +108,4 @@ After committing, you can monitor the workflow:
 
 ---
 
-download ubuntu :)
+download ubuntu :))
